@@ -1,0 +1,72 @@
+.container {
+    height: 300px;
+    width: 30vw;
+    text-align: center;
+    background-color: black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+  }
+  label {
+    font-size: 90px;
+  }
+  button {
+    border: 1px solid #696160b9;
+    box-shadow: inset 0 0 0 2px #0f0f0f;
+    padding: 10px;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px 2px;
+  }
+  .buttons{
+    position:relative; height: 80px;
+border-bottom: 2px solid rgb(44, 43, 43);
+
+  }
+  .button1 {
+
+    border: 1px solid #696160b9;
+    box-shadow: inset 0 0 0 2px #0f0f0f;
+    margin-right:auto;
+    height: 90px;
+    border-spacing: 45px;
+    width: 90px;
+    background-color: #696160b9;
+    border-radius: 50%;
+  }
+  .button2 {
+
+    border: 1px solid #67261cbe;
+    box-shadow: inset 0 0 0 2px #0f0f0f;
+    margin-left: auto;
+    height: 90px;
+    width: 90px;
+    color: rgb(254, 17, 0);
+    background-color: #67261cbe;
+  
+    border-radius: 50%;
+  }
+  #ki {
+    display: inline;
+    justify-content: space-between;
+  }
+  li {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    border-bottom: 2px solid rgb(114, 103, 103);
+    font-size: 20px;
+  }
+  .rajitha {
+    display: flex;
+    justify-content: space-between;
+    height: auto;
+    padding-top: 8px;
+    padding-bottom: 6px;
+    border-bottom: 1px solid rgb(91, 72, 72);
+  }
+  
